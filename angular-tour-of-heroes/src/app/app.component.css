@@ -1,0 +1,15 @@
+.midexam {
+    display: center;
+    padding: 50px;
+    width: 50%;
+    margin: 0px;
+    background-color: teal;
+    font-size: 16px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: white;
+  }
+  
+  .numbers {
+    display: center;
+  }
